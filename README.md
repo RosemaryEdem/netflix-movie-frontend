@@ -1,7 +1,5 @@
 # 🎬 Netflix Frontend
 
-**By DigitalWitch | Cloud • DevOps • Security**
-
 ---
 
 ## 📌 Overview
@@ -183,21 +181,15 @@ Frontend setup steps:
 
 ---
 
-## 🎓 Final Words
-
-Good luck with your studies and project deployment.
-
-**— DigitalWitch**
-
-
 Please Clone the Code for the FullStack app
 1) Frontend 
-https://github.com/digitalwitchdemo/netflix_frontend.git
+https://github.com/RosemaryEdem/netflix-movie-frontend
 
 2) Backend
-https://github.com/digitalwitchdemo/netflix_backend.git
+https://github.com/RosemaryEdem/netflix-movie-backend
 
 make sure you deploy the database before starting the backend.
 
 Finally. 
 Note: make sure you deploy the database before starting the backend.
+
