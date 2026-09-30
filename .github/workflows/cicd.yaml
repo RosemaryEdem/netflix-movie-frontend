@@ -32,7 +32,7 @@ jobs:
 
     - name: Docker build 
       run: |
-        docker build --build-arg REACT_APP_API_URL="http://localhost:8080" -t netflix-frontend:latest .
+        docker build --build-arg REACT_APP_API_URL="http://184.192.77.58:8080" -t netflix-frontend:latest .
 
     - name: Docker push
       run: |
